@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTMDB</string>
+
+    <string name="sort_option">Fliters</string>
+    <string name="rating_sort">Rating</string>
+    <string name="popularity_sort">Popularity</string>
+</resources>

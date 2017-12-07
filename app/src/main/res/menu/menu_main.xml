@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:androclass="http://schemas.android.com/apk/res/android"
+    xmlns:android="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/sort_option"
+        androclass:title="@string/sort_option">
+
+        <menu xmlns:androclass="http://schemas.android.com/apk/res/android"
+            xmlns:android="http://schemas.android.com/tools">
+            <item
+                android:id="@+id/rating_sort"
+                androclass:title="@string/rating_sort"/>
+
+            <item
+                android:id="@+id/popularity_sort"
+                androclass:title="@string/popularity_sort"/>
+        </menu>
+    </item>
+
+</menu>
